@@ -1,5 +1,5 @@
 # Hosital-Management-System-DBMS
-<b>Link</b> : https://github.com/hrishikeshathalye/Hospital-Management-System-DBMS
+
 
 <pre>
 Group 6
